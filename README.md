@@ -27,27 +27,26 @@ Sou um estudante apaixonado por tecnologia, movido pela curiosidade e focado em 
 
 
 
---> linha <--
+row
 
 Experiência
 
 Atendimendo ao Cliente da Latam companhia áreas
 
---> row <--
+row
 
 Tecnologia
 
---> row <--
+row
 
 Principais interesses
 
---> row <--
+row
 
 📫 Como entrar em contato comigo: linkedin.com/in/jhonathan-salome
 
---> row <--
+ row
 
 Rodapé
 
---> row <--
--->
+row
