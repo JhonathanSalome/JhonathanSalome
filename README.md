@@ -3,9 +3,6 @@ Olá, eu sou o Jhonathan Salomé! 👋
 🎓 Estudante de Ciência da Computação | Desenvolvedor em Formação
 
 Sou um estudante apaixonado por tecnologia, movido pela curiosidade e focado em construir soluções através do código. Atualmente, estou aprofundando meus conhecimentos em Java através de cursos na Udemy e busco minha primeira oportunidade profissional na área de TI estágio ou Júnior.
-
-📫 Como entrar em contato comigo: linkedin.com/in/jhonathan-salome
-
 <!--
 ## Hi there 👋
 
@@ -27,4 +24,30 @@ Olá, eu sou o Jhonathan Salomé! 👋
 🎓 Estudante de Ciência da Computação | Desenvolvedor em Formação
 
 Sou um estudante apaixonado por tecnologia, movido pela curiosidade e focado em construir soluções através do código. Atualmente, estou aprofundando meus conhecimentos em Java através de cursos na Udemy e busco minha primeira oportunidade profissional na área de TI (Estágio ou Júnior).
+
+
+
+--> linha <--
+
+Experiência
+
+Atendimendo ao Cliente da Latam companhia áreas
+
+--> row <--
+
+Tecnologia
+
+--> row <--
+
+Principais interesses
+
+--> row <--
+
+📫 Como entrar em contato comigo: linkedin.com/in/jhonathan-salome
+
+--> row <--
+
+Rodapé
+
+--> row <--
 -->
